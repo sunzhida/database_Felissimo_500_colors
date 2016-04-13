@@ -4,7 +4,7 @@
 
 The complete set of 500 colored pencils from Felissimo consists of 20 units. Each pencil has its own hue and its own unique name, telling its own story.
 
-This dataset is crawled from Felissimo official website and it contains the following items:
+This dataset is crawled from Felissimo official website in JSON format and it contains the following items:
 * color ID
 * Chinese name
 * Japanese name
@@ -16,5 +16,8 @@ This dataset is crawled from Felissimo official website and it contains the foll
 * explaination<sup>\*</sup>
 
 \*: only have Japanese version at the moment.
+
+## Data preview
+![Preview](/data/data_preview.jpg)
 
 © All rights reserved. Copyright belongs to <img src="/images/felissimo_logo.gif" width="42">.
