@@ -10,8 +10,8 @@ This dataset is crawled from Felissimo official website and it contains the foll
 * Japanese name
 * English name
 * literal Chinese translations
-* color code
-* color display code
+* color code (hexadecimal)
+* color display code (hexadecimal)
 * caption<sup>\*</sup>
 * explaination<sup>\*</sup>
 
