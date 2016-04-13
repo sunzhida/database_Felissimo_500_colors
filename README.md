@@ -1,8 +1,7 @@
-# ![Felissimo color Logo](/images/felissimo_header_logo.png) 
+# Felissimo 500 colors
 <img src="/images/felissimo_header_logo.png" width="100">
-500 colors
 
 Designed by Felissimo, this complete set of 500 colored pencils consists 
 of 20 units, each pencil telling its own story with a unique name.
 
-All rights reserved. Copyright belongs to ![Felissimo Logo](/images/felissimo_logo.gif).
+All rights reserved. Copyright belongs to <img src="/images/felissimo_logo.gif" width="50">.
