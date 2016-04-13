@@ -1,4 +1,4 @@
-# Felissimo 500 colors
+# Felissimo 500 colors names stories
 
 ![Logo of Felissimo](/images/felissimo_header_logo.png)
 
