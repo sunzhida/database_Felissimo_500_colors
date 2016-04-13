@@ -18,6 +18,6 @@ This dataset is crawled from Felissimo official website in JSON format and it co
 \*: only have Japanese version at the moment.
 
 ## Data preview
-![Preview](/data/data_preview.jpg)
+![Preview](/data/data_preview.png)
 
 © All rights reserved. Copyright belongs to <img src="/images/felissimo_logo.gif" width="42">.
